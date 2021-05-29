@@ -5,4 +5,3 @@
 줄 위로 이동 : Alt + Up
 아래에 줄 복사 : Alt + Shift + Down
 내어쓰기 : Shift + Tab
-
