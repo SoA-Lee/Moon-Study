@@ -1,8 +1,0 @@
-사이드 바 열고/닫기 : Ctrl + B
-모든 명령 표시 : Ctrl + Shift + P
-편집기 닫기 : Ctrl + W
-찾기/바꾸기 : Ctrl + H
-줄 위로 이동 : Alt + Up
-아래에 줄 복사 : Alt + Shift + Down
-내어쓰기 : Shift + Tab
-
